@@ -47,6 +47,12 @@ and CLAUDE.md templates for Next.js, WordPress/PHP, and any-stack client project
 
 **[Get the full kit → ](https://clientreadykit.gumroad.com/l/dajgpk)**
 
+## Field notes
+
+The **[Client-Ready blog](https://bleasure34.github.io/client-ready-free/)** covers the
+business side of freelance client work — defending scope against "can we just add…",
+pre-delivery QA, and the AI-run business experiment behind this repo.
+
 ## License
 
 MIT for everything in this repo. Use it, fork it, ship it.
